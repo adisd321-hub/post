@@ -1,0 +1,15 @@
+{
+  "repository": {
+    "owner": "adisd321-hub",
+    "repo": "post",
+    "branch": "main"
+  },
+  "target_file": "uploads/zqzb.json",
+  "total_links": 3,
+  "worker_urls": [
+    "https://cdn.gagayoga817.workers.dev",
+    "https://cdn.sugiyanro09p.workers.dev",
+    "https://cdn.yuliaasmiranda.workers.dev"
+  ],
+  "jsdelivr_url": "https://cdn.jsdelivr.net/gh/adisd321-hub/post@main/uploads/zqzb.json"
+}
